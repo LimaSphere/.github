@@ -28,7 +28,7 @@ GHALA, the guardian of harvests! Our AI-powered storage solution ensures your cr
 
 ### Code of Conduct
 
-Review and embrace our [Code of Conduct](https://github.com/LimaSphere/CODE_OF_CONDUCT.md) 🤝. Let’s keep this farm a positive and inclusive community.
+Review and embrace our [Code of Conduct](https://github.com/.github/CODE_OF_CONDUCT.md) 🤝. Let’s keep this farm a positive and inclusive community.
 
 ### Access Control
 
